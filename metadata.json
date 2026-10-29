@@ -1,0 +1,6 @@
+{
+  "name": "CalmBridge",
+  "description": "Safety-First Multimodal Emotional Support with Cross-Modal Consistency Analysis",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
